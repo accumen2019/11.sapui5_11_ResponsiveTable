@@ -62,7 +62,7 @@
 			"i18n": {
 				"type": "sap.ui.model.resource.ResourceModel",
 				"settings": {
-					"bundleName": "DemoTable2DemoTable2.i18n.i18n_de"
+					"bundleName": "DemoTable2DemoTable2.i18n.i18n"
 				}
 			},
 			"Model":{

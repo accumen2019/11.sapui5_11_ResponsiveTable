@@ -7,13 +7,13 @@
 					<Table id="Randomid" inset="true">
 						<columns>
 							<Column minScreenWidth="Medium" demandPopin="true" hAlign="Left">
-								<Text text="{i18n>Date}"/></Column>
+								<Text text="Date"/></Column>
 							<Column minScreenWidth="Medium" demandPopin="true" hAlign="Left">
-								<Text text="{i18n>Doc_Type}"/></Column>
+								<Text text="Doc Type"/></Column>
 							<Column width="10em">
-								<Text text="{i18n>Doc_Desc}"/></Column>
+								<Text text="Document Description"/></Column>
 							<Column minScreenWidth="Medium" demandPopin="true" hAlign="Right">
-								<Text text="{i18n>Doc_No}"/></Column>
+								<Text text="Document No"/></Column>
 							<Column minScreenWidth="Medium" demandPopin="true" hAlign="Right">
 								<Text text="Debit Amount"/></Column>
 							<Column minScreenWidth="Medium" demandPopin="true" hAlign="Right">
